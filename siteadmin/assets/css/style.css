@@ -1,0 +1,17 @@
+body {
+	background: #eee;
+}
+.content {
+	background: #fff;
+}
+ul.site-menu li {
+	list-style-type: none;
+	float: left;
+	margin-left: 15px;
+}
+ul.site-menu li a {
+	font-size: 18px;
+}
+.main-content {
+	min-height: 620px;
+}

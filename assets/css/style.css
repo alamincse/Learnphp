@@ -1,0 +1,35 @@
+body {
+	background: #ccc;
+}
+.content {
+	background: white;
+	color:#000;
+	text-align: justify;
+	font-size: 16px;
+	font-family: Lucida;
+}
+.main-content {
+	border: 1px solid #f2f2f2;
+    padding: 10px;
+}
+p.empty-content {
+	border-bottom: 1px solid #f2f2f2;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+.actives {
+	background: #ccc;
+}
+.login-menu {
+	background: #101;
+	min-height: 30px;
+	padding: 5px;
+}
+.login-menu ul li {
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+}
+.login-menu ul li a {
+	color: #fff;
+}
