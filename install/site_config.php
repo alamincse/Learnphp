@@ -76,3 +76,9 @@
 		</div><!-- .col-md-6  -->
 	</div><!-- .row  -->
 </div><!-- .container  -->
+<?php 
+	if( strpos( $url, 'siteadmin' ) !== FALSE )
+		require_once( dirname( dirname( __FILE__ ) ).'/install/install_footer.php' ); 
+	else
+		require_once( 'install/install_footer.php' ); 
+?>
