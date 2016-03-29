@@ -7,8 +7,8 @@
  * @version    : 1.0
  */
 	/** Include php file */
-	require_once( 'site_php.php' ); 
-
+	require_once( 'site_php.php' );
+	 
 	/** Include site header */
 	require_once( 'header.php' ); 
 
