@@ -1,6 +1,6 @@
 <?php 
 /**
- * Templage    : Login / Sign up page
+ * Template    : Login / Sign up page
  * @author     : AL-AMIN
  * @package    : CMS
  * @subpackage : Learnphp
