@@ -1,6 +1,6 @@
 <?php 
 /**
- * Templage    : Profile page
+ * Template    : Profile page
  * Location    : Siteadmin
  * @author     : AL-AMIN
  * @package    : CMS

@@ -1,6 +1,6 @@
 <?php 
 /**
- * Templage    : Article page
+ * Template    : Article page
  * Location    : Siteadmin
  * @author     : AL-AMIN
  * @package    : CMS

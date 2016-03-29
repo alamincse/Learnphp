@@ -1,6 +1,6 @@
 <?php 
 /**
- * Templage    : Category
+ * Template    : Category
  * @author     : AL-AMIN
  * @package    : CMS
  */
