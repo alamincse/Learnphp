@@ -1,7 +1,7 @@
 # Learnphp
 Learnphp (Using php, mysql, html, css, bootstrap)
 Learnphp is a simple CMS like wordpress. If you are new in php, you can learn something how to make a CMS using php. 
-This code is very prity, roobats and helpfull for learn yourself.
+This code is very pretty and helpful to learn yourself.
 
 INSTALL PROCESS
 ----------------
