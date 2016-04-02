@@ -22,10 +22,14 @@ Others Install
 <?php
 $dbconn = array(
 
+	/** The name of the database for learnphp */
 	'DB_NAME' 	  => 'mysql-db-learnphp',
 	
+	/** mySQL database username */
 	'DB_USER' 	  => 'root',
 	
+	/** mySQL database password */
 	'DB_PASSWORD' => 'mysql-learnphp-pw',
 	
+	/** mySQL hostname */
 	'DB_HOST' 	  => 'localhost' ); ?>
