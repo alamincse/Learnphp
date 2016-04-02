@@ -30,8 +30,4 @@ $dbconn = array(
 	
 	'DB_PASSWORD' => 'mysql-learnphp-pw',
 	
-	'DB_HOST' 	  => 'localhost'
-	
-);
-
-?>
+	'DB_HOST' 	  => 'localhost' ); ?>
