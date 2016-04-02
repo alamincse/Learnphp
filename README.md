@@ -20,6 +20,7 @@ Others Install
 3. Save it and that's ok.
 
 <?php
+// DB connection
 $dbconn = array(
 
 	'DB_NAME' 	  => 'mysql-db-learnphp',
@@ -31,4 +32,6 @@ $dbconn = array(
 	'DB_HOST' 	  => 'localhost'
 	
 );
+
+// end
 ?>
