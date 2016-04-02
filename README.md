@@ -20,8 +20,6 @@ Others Install
 3. Save it and that's ok.
 
 <?php
-
-
 $dbconn = array(
 
 	'DB_NAME' 	  => 'mysql-db-learnphp',
