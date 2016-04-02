@@ -15,8 +15,8 @@ INSTALL PROCESS
 
 Others Install
 ---------------
-1. Go to you "siteadmin" folder and open your "db_config.php" file.
-2. You got bellow this code. Now set your DB name, DB user, DB password and DB host.
+1. Go to your "siteadmin" folder and open your "db_config.php" file.
+2. Now you've got bellow this code and set your 'DB name', 'DB user', 'DB password' and 'DB host'.
 3. Save it and that's ok.
 
 <?php
