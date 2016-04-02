@@ -11,3 +11,21 @@ INSTALL PROCESS
 5. And you got a installation form and fill up it carefully.
 6. That's ok. You've got everything...
 7. Thanks.
+
+
+Others Install
+---------------
+1. Go to you "siteadmin" folder and open your "db_config.php" file.
+2. You got bellow this code. Now set your DB name, DB user, DB password and DB host.
+3. Save it and that's ok.
+
+$dbconn = array(
+		/** The name of the database for learnphp */
+		'DB_NAME' 	  => 'mysql-db-learnphp',
+		/** mySQL database username */
+		'DB_USER' 	  => 'root',
+		/** mySQL database password */
+		'DB_PASSWORD' => 'mysql-learnphp-pw',
+		/** mySQL hostname */
+		'DB_HOST' 	  => 'localhost'
+	);
