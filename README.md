@@ -6,7 +6,7 @@ Learnphp (Using php, mysql, html, css, bootstrap) is a simple CMS like wordpress
 INSTALL PROCESS
 ----------------
 ```
-1. After download, put your project on your server directory like -(like_C://xampp/htdocs/... ).
+1. After download, put your project on your server directory (like C://xampp/htdocs/... ).
 ```
 ```
 2. Go to your phpmyadmin area by your browser(like http://localhost/phpmyadmin).
@@ -30,9 +30,15 @@ INSTALL PROCESS
 
 Others Install
 ---------------
-* Go to your "siteadmin" folder and open your "db_config.php" file.
-* Now you've got bellow this code and set your 'DB name', 'DB user', 'DB password' and 'DB host'.
-* Save it and that's ok.
+```
+1. Go to your "siteadmin" folder and open your "db_config.php" file.
+ ```
+```
+2. Now you've got bellow this code and set your 'DB name', 'DB user', 'DB password' and 'DB host'.
+```
+```
+3. Save it and that's ok.
+```
 
 
 
