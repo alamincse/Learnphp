@@ -19,17 +19,23 @@ Others Install
 2. Now you've got bellow this code and set your 'DB name', 'DB user', 'DB password' and 'DB host'.
 3. Save it and that's ok.
 
-<?php
-$dbconn = array(
 
-	/** The name of the database for learnphp */
-	'DB_NAME' 	  => 'mysql-db-learnphp',
+
+.
+
+	<?php $dbconn = array(
 	
-	/** mySQL database username */
-	'DB_USER' 	  => 'root',
-	
-	/** mySQL database password */
-	'DB_PASSWORD' => 'mysql-learnphp-pw',
-	
-	/** mySQL hostname */
-	'DB_HOST' 	  => 'localhost' ); ?>
+		/** The name of the database for learnphp */
+		'DB_NAME' 	  => 'mysql-db-learnphp',
+		
+		/** mySQL database username */
+		'DB_USER' 	  => 'root',
+		
+		/** mySQL database password */
+		'DB_PASSWORD' => 'mysql-learnphp-pw',
+		
+		/** mySQL hostname */
+		'DB_HOST' 	  => 'localhost' 
+	);
+
+	?>
