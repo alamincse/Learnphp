@@ -21,6 +21,7 @@ Others Install
 
 <?php
 $dbconn = array(
+
 	'DB_NAME' 	  => 'mysql-db-learnphp',
 	
 	'DB_USER' 	  => 'root',
@@ -28,5 +29,6 @@ $dbconn = array(
 	'DB_PASSWORD' => 'mysql-learnphp-pw',
 	
 	'DB_HOST' 	  => 'localhost'
+	
 );
 ?>
