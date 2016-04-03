@@ -3,8 +3,8 @@
 Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html](http://www.w3schools.com/html/default.asp), [css](http://www.w3schools.com/css/default.asp) and [bootstrap](http://www.getbootstrap.com)) is a simple CMS like [wordpress](http://www.wordpress.org). If you are new in [php](http://www.php.net), you can learn something how to make a CMS using [php](http://www.php.net). This code is very pretty and helpful to learn yourself.
 
 
-INSTALL PROCESS
-----------------
+#INSTALL PROCESS
+
 ```
 1. After download, put your project on your server directory (like C://xampp/htdocs/... ).
 ```
@@ -28,8 +28,8 @@ INSTALL PROCESS
 ```
 
 
-Others Install
----------------
+#Others Install
+
 ```
 1. Go to your "siteadmin" folder and open your "db_config.php" file.
  ```
@@ -43,8 +43,9 @@ Others Install
 
 
 .
-
-	<?php $dbconn = array(
+```php
+<?php
+	$dbconn = array(
 	
 		/** The name of the database for learnphp */
 		'DB_NAME' 	  => 'mysql-db-learnphp',
@@ -59,4 +60,5 @@ Others Install
 		'DB_HOST' 	  => 'localhost' 
 	);
 
-	?>
+?>
+```
