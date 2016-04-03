@@ -30,16 +30,14 @@ Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html]
 
 #Others Install
 
-```
-1. Go to your "siteadmin" folder and open your "db_config.php" file.
- ```
-```
-2. Now you've got bellow this code and set your 'DB name', 'DB user', 'DB password' and 'DB host'.
-```
-```
-3. Save it and that's ok.
-```
 
+1. Go to your **'siteadmin'** folder and open your **'db_config.php'** file.
+ 
+
+2. Now you've got bellow this code and set your __'DB name'__, __'DB user'__, __'DB password'__ and __'DB host'__.
+
+
+3. Save it and that's ok.
 
 
 .
