@@ -43,6 +43,18 @@ Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html]
 .
 ```php
 <?php
+	/**
+	 * The base configurations of the Learnphp application.
+	 * Please setting your database configuration.
+	 * This file has the following configurations: MySQL settings
+	 *
+	 * Copyright 2016 <cseal.amin.09@gmail.com>
+	 * 
+	 * @author     AL-AMIN
+	 * @package    CMS
+	 * @subpackage Learnphp
+	 * @version    1.0
+	 */
 	$dbconn = array(
 	
 		/** The name of the database for learnphp */
