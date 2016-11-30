@@ -68,4 +68,4 @@ Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html]
 ```
 
 #Author
-[AL-AMIN](http://www.about.me/alamin07)
+[AL-AMIN](http://www.parbona.net)
