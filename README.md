@@ -67,5 +67,5 @@ Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html]
 ?>
 ```
 
-#Author
-[AL-AMIN](http://www.parbona.net)
+##Author
+[Al-Amin Sarker](http://www.parbona.net)
