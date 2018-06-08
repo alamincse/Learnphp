@@ -1,7 +1,7 @@
 <?php 
 /**
  * Template    : Home / Font page
- * @author     : AL-AMIN
+ * @author     : Al-Amin Sarker
  * @package    : CMS
  * @subpackage : Learnphp
  */
