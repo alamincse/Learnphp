@@ -46,7 +46,7 @@ Learnphp (Using [php](http://www.php.net), [mysql](http://www.mysql.com), [html]
 	 * @author     Al-Amin Sarker
 	 * @package    CMS
 	 * @subpackage Learnphp
-	 * @url        http://parbona.net
+	 * @link       http://parbona.net
 	 * @version    1.0
 	 * @copyright  2016
 	 */
